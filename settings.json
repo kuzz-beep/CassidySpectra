@@ -27,7 +27,7 @@
   },
   "autoCreateDB": true,
   "MongoConfig": {
-    "status": false,
+    "status": true,
     "uri": "MONGO_URI"
   },
   "discordBotToken": "",
